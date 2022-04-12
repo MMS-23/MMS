@@ -1,0 +1,28 @@
+.Login {
+  background-image: "./image.png";
+  width: 75px;
+}
+.form {
+    
+  position: absolute;
+  width: 350px;
+  height: 320px;
+  top: 50%;
+  left: 70%;
+  text-align: right;
+  margin: -100px 0 0 -150px;
+  padding: 2em;
+  border-radius: 50px;
+  box-shadow: 5px 5px 13px #828282, -5px -5px 13px #ffffff;
+  border-color: red;
+}
+
+.submit{
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+label {
+  font-weight: 600;
+}
